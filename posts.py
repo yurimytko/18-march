@@ -80,4 +80,4 @@ def run_parser(page_url, limit=5):
         browser.quit()
 
 if __name__ == "__main__":
-    run_parser("https://www.facebook.com/providentrealestateuz", limit=5)
+    run_parser("https://www.facebook.com/providentrealestateuz", limit=7)
